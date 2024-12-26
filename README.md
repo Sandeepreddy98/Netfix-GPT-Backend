@@ -2,7 +2,7 @@
 1. Create a base project and added express.
 2. Connected mongoDB using mongoose package.
 
-# Routes 
+## Routes 
 1. /auth/signup
   - Using mongoose model to create schema for user and handled validations for the same.
   - Bcrypt for hashing password and storing it in users collection.
